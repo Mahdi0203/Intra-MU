@@ -2,7 +2,7 @@
 using namespace std;
  
 using ll = long long;
- 
+
 void solve( int cs ){
  
     string s;
